@@ -1,6 +1,6 @@
 export const CONFIG = {
   // Geri sayımın biteceği hedef tarih (YYYY-MM-DD formatında)
-  TARGET_DATE: '2026-06-01',
+  TARGET_DATE: '2026-08-31',
   // Takvimin başlangıç tarihi
   START_DATE: '2026-03-13',
   // Rastgele gelecek YouTube video ID'leri
